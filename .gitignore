@@ -1,0 +1,15 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment files
+.env
+
+# Ignore dependencies
+node_modules/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP generated files (optional)
+*.log
